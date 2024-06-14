@@ -1,5 +1,10 @@
 package entidades;
+
 import java.util.ArrayList;
+
+/**
+ * @author Carlos Mogort Brines
+ */
 
 public class Equipo {
     private String nombre;

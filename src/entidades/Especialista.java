@@ -2,6 +2,10 @@ package entidades;
 
 import io.Leer;
 
+/**
+ * @author Carlos Mogort Brines
+ */
+
 public class Especialista extends Participante{
     private String especialidad;
     private int penalizacion;
